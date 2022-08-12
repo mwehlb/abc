@@ -339,18 +339,18 @@ transform: translateY(-15px) rotateZ(-45deg);
 }
 
 .logo {
-  width: 150px;
-  height: 100px;
-  background-image: url("../Screen\ Shot\ 2022-08-10\ at\ 19.09.46.png");
-  background-size: cover;
-  position: relative;
-  position: absolute;
-  left: 450px;
-  top: 68px;
+    width: 150px;
+    height: 100px;
+    background-image: url("../Screen\ Shot\ 2022-08-10\ at\ 19.09.46.png");
+    background-size: cover;
+    position: relative;
+    position: absolute;
+    left: 450px;
+    top: 68px;
 }
 
 .logo2 {
-    width: 40px;
+    width: 60px;
     height: 40px;
     display: flex;
     flex-wrap: wrap;
@@ -365,18 +365,18 @@ transform: translateY(-15px) rotateZ(-45deg);
 }
 
 .logo2:hover {
-  
+
     background-image: url("../Screen\ Shot\ 2022-08-10\ at\ 18.35.36.png");
 }
 
 .logo3 {
-    width: 40px;
+    width: 60px;
     height: 40px;
     background-image: url("../Screen\ Shot\ 2022-08-10\ at\ 18.40.05.png");
     background-size: cover;
     position: absolute;
     left: 1100px;
-    top: 102px;
+    top: 98px;
 
 }
 
@@ -399,40 +399,46 @@ transform: translateY(-15px) rotateZ(-45deg);
     height: 60px;
     background-image: url("../Screen\ Shot\ 2022-08-10\ at\ 18.26.42.png");
 }
-.logo5{
+
+.logo5 {
     width: 40px;
     height: 40px;
     background-image: url("../Screen\ Shot\ 2022-08-10\ at\ 18.46.33.png");
     background-size: cover;
     position: absolute;
     left: 1270px;
-    top: 102px;
+    top: 105px;
 }
-.logo5:hover{
+
+.logo5:hover {
     background-image: url("../Screen\ Shot\ 2022-08-10\ at\ 18.48.57.png");
 }
-.logo6{
+
+.logo6 {
     width: 60px;
     height: 60px;
     background-image: url("../Screen\ Shot\ 2022-08-10\ at\ 18.55.03.png");
     background-size: cover;
     position: absolute;
     left: 1330px;
-    top: 102px;
-    
+    top: 99px;
+
 }
-.logo6:hover{
+
+.logo6:hover {
     background-image: url("../Screen\ Shot\ 2022-08-10\ at\ 18.52.59.png");
 }
-.Garchig{
+
+.Garchig {
     position: absolute;
     color: white;
     left: 600px;
     top: 10px;
-    font-size:  70px;
+    font-size: 70px;
     font-style: initial;
 }
-.zgr2{
+
+.zgr2 {
     color: gray;
     position: absolute;
     left: 600px;
@@ -440,49 +446,402 @@ transform: translateY(-15px) rotateZ(-45deg);
     font-size: medium;
 
 }
-.one{
+
+.one {
     color: gray;
     position: absolute;
     left: 3300px;
     top: 90px;
     font-size: x-large;
-    font-style:inherit;
+    font-style: inherit;
 }
-.one:hover{
+
+.one:hover {
     color: whitesmoke;
 
 }
-.two{
+
+.two {
     color: gray;
     position: absolute;
-    left: 3440px;
+    left: 3420px;
     top: 90px;
-    font-size:x-large;
-    font-style: inherit;
-}
-.two:hover{
-    color: whitesmoke;
-}
-.time{
-    color: gray;
-    position: absolute;
-    left: 3200px;
-    top: 130px;
     font-size: x-large;
     font-style: inherit;
 }
-.time:hover{
-    color: whitesmoke;
 
+.two:hover {
+    color: whitesmoke;
 }
-.words{
+
+.time {
     color: gray;
     position: absolute;
-    left: 3260px;
+    left: 3210px;
     top: 129px;
     font-size: x-large;
     font-style: inherit;
 }
-.words:hover{
+
+.time:hover {
     color: whitesmoke;
+
+}
+
+.words {
+    color: gray;
+    position: absolute;
+    left: 3262px;
+    top: 129px;
+    font-size: x-large;
+    font-style: inherit;
+}
+
+.words:hover {
+    color: whitesmoke;
+}
+
+.quote {
+    color: gray;
+    position: absolute;
+    left: 3330px;
+    top: 129px;
+    font-size: x-large;
+    font-style: inherit;
+}
+
+.quote:hover {
+    color: whitesmoke;
+}
+
+.zen {
+    color: gray;
+    position: absolute;
+    left: 3390px;
+    top: 129px;
+    font-size: x-large;
+    font-style: inherit;
+}
+
+.zen:hover {
+    color: whitesmoke;
+
+}
+
+.custom {
+    color: gray;
+    position: absolute;
+    left: 3430px;
+    top: 129px;
+    font-size: x-large;
+    font-style: inherit;
+}
+
+.custom:hover {
+    color: whitesmoke;
+}
+
+.fif {
+    color: gray;
+    position: absolute;
+    left: 3210px;
+    top: 165px;
+    font-size: x-large;
+    font-style: inherit;
+}
+
+.fif:hover {
+    color: whitesmoke;
+}
+
+.thir {
+    color: gray;
+    position: absolute;
+    left: 3250px;
+    top: 165px;
+    font-size: x-large;
+    font-style: inherit;
+}
+
+.thir:hover {
+    color: whitesmoke;
+}
+
+.min {
+    color: gray;
+    position: absolute;
+    left: 3290px;
+    top: 165px;
+    font-size: x-large;
+    font-style: inherit;
+}
+
+.min:hover {
+    color: whitesmoke;
+}
+
+.twoMin {
+    color: gray;
+    position: absolute;
+    left: 3330px;
+    top: 165px;
+    font-size: x-large;
+    font-style: inherit;
+}
+
+.twoMin:hover {
+    color: whitesmoke;
+}
+
+.logo7 {
+    background-image: url("../Screen\ Shot\ 2022-08-12\ at\ 17.13.41.png");
+    width: 40px;
+    height: 40px;
+    background-size: cover;
+    position: absolute;
+    left: 3380px;
+    top: 185px;
+    font-size: x-small;
+
+}
+
+.logo7:hover {
+    background-image: url("../Screen\ Shot\ 2022-08-12\ at\ 17.16.12.png");
+}
+
+.english {
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    background-image: url("../Screen\ Shot\ 2022-08-12\ at\ 17.18.20.png");
+    width: 45px;
+    height: 45px;
+    background-size: cover;
+    position: absolute;
+    left: 2100px;
+    top: 700px;
+}
+.english:hover{
+    background-image: url("../Screen\ Shot\ 2022-08-12\ at\ 17.26.51.png");
+}
+.englisha{
+    color: gray;
+    position: absolute;
+    left: 2170px;
+    top: 702px;
+    font-size: xx-large;
+    font-style:initial;
+
+}
+.englisha:hover{
+    color: whitesmoke;
+}
+.logo8{
+    width: 40px;
+    height: 40px;
+    background-image: url("../Screen\ Shot\ 2022-08-12\ at\ 17.36.06.png");
+   background-size: cover;
+   position: absolute;
+   left: 2170px;
+   top: 1250px;
+}
+.logo8:hover{
+    background-image: url("../Screen\ Shot\ 2022-08-12\ at\ 17.39.24.png");
+}
+.restart{
+    display: none;
+    color: gray;
+    position: absolute;
+    left: 2170px;
+    top: 1300px;
+    font-size: xx-large;
+    font-style: initial;
+}
+
+.tab{
+    color:rgb(25, 20, 20);
+    position: absolute;
+    left: 2000px;
+    top: 1700px;
+    font-size: xx-large;
+    font-style: initial;
+    display: flex;
+    justify-content: center;
+    border: 1px solid dimgray;
+    width: 70px;
+    height: auto;
+    border-radius: 10px;
+    background-color:dimgray;
+}
+.a{
+    position: absolute;
+    left: 2100px;
+    top: 1700px;
+    font-size: xx-large;
+    color: dimgray;
+}
+.enter{
+    color:rgb(25, 20, 20);
+    position: absolute;
+    left: 2150px;
+    top: 1700px;
+    font-size: xx-large;
+    font-style: initial;
+    display: flex;
+    justify-content: center;
+    border: 1px solid dimgray;
+    width: 70px;
+    height: auto;
+    border-radius: 10px;
+    background-color:dimgray;
+}
+.aa{
+    position: absolute;
+    left: 2260px;
+    top: 1700px;
+    font-size: xx-large;
+    color: dimgray;
+}
+.aaa{
+    position:absolute;
+    left: 2300px;
+    top: 1700px;
+    font-size: xx-large;
+    font-style: initial;
+    color: dimgray;
+
+}
+.ee{
+    color:rgb(25, 20, 20);
+    position: absolute;
+    left: 1900px;
+    top: 1800px;
+    font-size: xx-large;
+    font-style: initial;
+    display: flex;
+    justify-content: center;
+    border: 1px solid dimgray;
+    width: 70px;
+    height: auto;
+    border-radius: 10px;
+    background-color:dimgray; 
+}
+.or{
+    position:absolute;
+    left: 2000px;
+    top: 1770px;
+    font-size: xx-large;
+    font-style: initial;
+    color: dimgray;
+}
+.ctl{
+    color:rgb(25, 20, 20);
+    position: absolute;
+    left: 2052px;
+    top: 1768px;
+    font-size: xx-large;
+    font-style: initial;
+    display: flex;
+    justify-content: center;
+    border: 1px solid dimgray;
+    width: auto;
+    height: auto;
+    border-radius: 10px;
+    background-color:dimgray; 
+
+}
+.b{
+    position:absolute;
+    left: 2190px;
+    top: 1767px;
+    font-size: xx-large;
+    font-style: initial;
+    color: dimgray;
+}
+.shift{
+    color:rgb(25, 20, 20);
+    position: absolute;
+    left: 2242px;
+    top: 1768px;
+    font-size: xx-large;
+    font-style: initial;
+    display: flex;
+    justify-content: center;
+    border: 1px solid dimgray;
+    width: auto;
+    height: auto;
+    border-radius: 10px;
+    background-color:dimgray; 
+}
+.t{
+    position:absolute;
+    left: 2330px;
+    top: 1767px;
+    font-size: xx-large;
+    font-style: initial;
+    color: dimgray;
+}
+
+
+.p{
+    color:rgb(25, 20, 20);
+    position: absolute;
+    left: 2382px;
+    top: 1767px;
+    font-size: xx-large;
+    font-style: initial;
+    display: flex;
+    justify-content: center;
+    border: 1px solid dimgray;
+    width: 30px;
+    height: auto;
+    border-radius: 10px;
+    background-color:dimgray; 
+}
+.g{
+    position:absolute;
+    left: 2470px;
+    top: 1767px;
+    font-size: xx-large;
+    font-style: initial;
+    color: dimgray;  
+}
+.line{
+    position:absolute;
+    left: 2540px;
+    top: 1767px;
+    font-size: xx-large;
+    font-style: initial;
+    color: dimgray;}
+
+.text1{
+    position:absolute;
+    left: 1200px;
+    top: 800px;
+    font-size: 50px;
+    font-style: initial;
+    color: dimgray;}
+.text2{
+    position:absolute;
+    left: 1200px;
+    top: 900px;
+    font-size: 50px;
+    font-style: initial;
+    color: dimgray; 
+}
+.text3{
+    position:absolute;
+    left: 1200px;
+    top: 1000px;
+    font-size: 50px;
+    font-style: initial;
+    color: dimgray; 
+}
+.text4{
+    position:absolute;
+    left: 1200px;
+    top: 1100px;
+    font-size: 50px;
+    font-style: initial;
+    color: dimgray; 
 }
